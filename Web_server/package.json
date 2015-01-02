@@ -1,0 +1,15 @@
+{
+    "name": "RealTimeInstagramSubServer",
+    "version": "0.0.1",
+    "description": "Real time instagram tracking server",
+    "dependencies": {
+        "express": "3.x",
+	"jade": "latest",
+	"instagram-node-lib":"latest",
+	 "ws": "0.4.x"
+    },
+    "engines": {
+    	"node": "0.10.12",
+    	"npm": "1.2.30"
+    }
+}
